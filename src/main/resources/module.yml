@@ -1,0 +1,5 @@
+main: com.thoxia.playerads.multiserver.MultiServerModule
+name: 'MultiServer'
+description: 'Provides MultiServer functionality for PlayerAds.'
+version: '1.0.0'
+author: 'hyperion'
